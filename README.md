@@ -11,19 +11,19 @@
    * The adjusted R-square value of 0.6825 suggests that this linear model does predict mpg of MechaCar prototypes effectively.
 
 ## Summary Statistics on Suspension Coils
-Lot Summary: 
-1. ![image](https://user-images.githubusercontent.com/96644316/175821350-4475a852-deed-4c35-b6af-e800f02f79a1.png)
-Total Summary: 
-2. ![image](https://user-images.githubusercontent.com/96644316/175821363-ccdd29bc-99dc-40f4-bdb0-f497cf9a258f.png)
+Lot Summary:  
+![image](https://user-images.githubusercontent.com/96644316/175821350-4475a852-deed-4c35-b6af-e800f02f79a1.png)  
+Total Summary:  
+![image](https://user-images.githubusercontent.com/96644316/175821363-ccdd29bc-99dc-40f4-bdb0-f497cf9a258f.png)
 
 * The design specifications for the MechaCar suspension coils dictate that the variance of the suspension coils must not exceed 100 pounds per square inch. Does the current manufacturing data meet this design specification for all manufacturing lots in total and each lot individually? Why or why not?
-  * 
+  * For the lots, the third lot has a significant difference in the amount of variance. This could indicate that up to a third of the lot exceeds 100 pounds per square inch. The total summary of variance has a value of 62, which would indicate that overall the current manufacturing data does meet the 100 pounds per square inch limitation.
 
 ## T-Tests on Suspension Coils
-T-Test on entire lot:
-1. ![image](https://user-images.githubusercontent.com/96644316/175821464-b934d481-737e-4604-9158-8da40f6c5954.png)
-T-Test on smaller lots: 
-2. ![image](https://user-images.githubusercontent.com/96644316/175821473-a8139c00-2bf3-49f6-9a36-63e7044d4eb3.png)
+T-Test on entire lot:  
+![image](https://user-images.githubusercontent.com/96644316/175821464-b934d481-737e-4604-9158-8da40f6c5954.png)
+T-Test on smaller lots:  
+![image](https://user-images.githubusercontent.com/96644316/175821473-a8139c00-2bf3-49f6-9a36-63e7044d4eb3.png)
 
 
 ## Study Design: MechaCar vs Competition
