@@ -21,17 +21,17 @@ Total Summary:
 
 ## T-Tests on Suspension Coils
 T-Test on entire lot:  
-![image](https://user-images.githubusercontent.com/96644316/175821464-b934d481-737e-4604-9158-8da40f6c5954.png)
+![image](https://user-images.githubusercontent.com/96644316/175821464-b934d481-737e-4604-9158-8da40f6c5954.png)  
 T-Test on smaller lots:  
-![image](https://user-images.githubusercontent.com/96644316/175821473-a8139c00-2bf3-49f6-9a36-63e7044d4eb3.png)
-
+![image](https://user-images.githubusercontent.com/96644316/175821473-a8139c00-2bf3-49f6-9a36-63e7044d4eb3.png)  
+We are unable to reject the null hypothesis for our tests on the entire lot, lot 1, and lot 2 because the p-values are higher than 0.05. The only test we are able to reject the null hypothesis for is lot 3 due to it's p-value of 0.04. 
 
 ## Study Design: MechaCar vs Competition
 * What metric or metrics are you going to test?
-  * 
+  * We could test city and highway fuel effieciency.
 * What is the null hypothesis or alternative hypothesis?
-  * 
+  * If a person commutes more than 10 miles per day, there will be no difference between city or highway fuel efficiency.
 * What statistical test would you use to test the hypothesis? And why?
-  * 
+  * A multiple linear regression model would be best to account for different variables that could effect our study.
 * What data is needed to run the statistical test?
-  * 
+  * Important data for our testing could include (but not be limited to) distance travelled per day, horsepower of vehicle, climate/terrain of environment, speed limits of areas, and MPG used.
